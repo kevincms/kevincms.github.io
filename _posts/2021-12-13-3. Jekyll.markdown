@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "3. Jekyll"
+---
+# Jekyll
+Jekyll=형식이 있는 문서를 HTML로 바꾸어 주는 웹사이트 생성기
+Window 환경의 경우 Jekyll를 설치하기 위해서 Ruby + Devkit를 먼저 설치해야 함
+### CLI
+- gem install (rails) : rails 설치하기 
+- (rails) -v : rails 버전 확인하기 
+- jekyll new . --force : 현재 디렉토리에 jekyll 시작하기
+- bundle exec jekyll serve : 웹사이트를 서버에 올리고 localhost:4000에 접속
+- bundle add (rails) : bundle rails 설치하기 
+### 사용법 및 특징
+- _config.yml 을 수정함으로써 블로그의 속성을 바꿀 수 있다.
+- _post에 YYYY-MM-DD-TITLE.md 를 추가해 블로그를 작성할 수 있다.

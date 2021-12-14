@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "1. Git & Github"
+---
+# Git & Github
+Git=버전관리를 할 수 있는 프로그램  
+Github=Git의 정보를 서버에 백업하여 여러 작업을 할 수 있는 사이트  
+### CLI
+- git init : 현재 작업중인 디렉토리를 git 저장소로 지정
+- git status : 현재 Git 상태 확인
+- git add file.py : file.py을 생성(수정)하고 Commit에 반영
+- git comiit -m "message" : 원하는 메모를 남기며 Commit 생성
+- git log : Commit 기록 확인
+- git branch <branch_name> : branch 생성
+- git branch -d <branch_name> : branch 삭제
+- git checkout <branch_name> : 현재 작업중인 branch를 전환
+- git merge <branch_name> : 현재 작업중인 branch를 원하는 branch에 병합
+### GUI
+텍스트의 입력이 귀찮은 경우 GUI를 이용할 수 있음.
+tortoisegit, SourceTree 등을 이용해 git의 대부분의 기능을 사용할 수 있음.

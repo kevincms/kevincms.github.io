@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "2. Markdowm"
+---
+# Markdowm
+Markdowm=서식이 있는 텍스트 언어
+### 텍스트 꾸미기
+- Header(제목) : #, ##, ###  
+- *italic*(기울임) : _, *  
+- **bold**(강조) : __, **
+- ~strikethrough~(취소선) : ~
+- unordered list : -, ...
+- ordered list : 1. 
+
+### ''' '''와 ``를 이용해 코드를 명시적으로 나타낼 수 있음
+- C언어
+```c
+#include <stdio.h>
+int main(){
+    printf("Hello World");
+}
+```
+- Python0
+```python
+print("Hello World")
+```
+- Java
+```java
+class Test {
+    public static void main(String[] args){
+        System.out.print("Hello World");
+    }
+}
+```
+- 출력
+`print()`
