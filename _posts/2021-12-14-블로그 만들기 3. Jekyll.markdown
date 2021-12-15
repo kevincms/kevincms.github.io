@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3. Jekyll"
+title:  "블로그 만들기 3. Jekyll"
 ---
 # Jekyll
 Jekyll=형식이 있는 문서를 HTML로 바꾸어 주는 웹사이트 생성기

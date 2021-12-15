@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2. Markdowm"
+title:  "블로그 만들기 2. Markdowm"
 ---
 # Markdowm
 Markdowm=서식이 있는 텍스트 언어
