@@ -3,7 +3,7 @@
 title: 유레카 프로젝트 블로그 만들기-20201415 조민석
 email: kevincms314@kookmin.ac.kr
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: https://kevincms.github.io # the base hostname & protocol for your site
 
 markdown: kramdown
 # toc_levels: 1……2
@@ -16,3 +16,8 @@ exclude:
   - Gemfile.lock
   - node_modules
   - blog pull and debug.bat
+
+comment:
+    provider: "disqus"
+    disqus:
+        shortname: "yureka-peurojegteu"
