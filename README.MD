@@ -21,6 +21,8 @@ Project Gaia의 경우 Themes 압축 파일에 Gemfile을 넣고 _posts에 있�
 - _includes 안에 있는  html파일 수정
 1. head.html을 수정해 블로그를 처음 열었을 때 보이는 글자들 수정하기
 1. navbar.html를 수정해 우측 상단 메뉴를 열었을 떄 보이는 문구와 사진 교채하기
+1. archives.html를 수정해 블로그 page-header 이름과 상태 메세지 바꾸기
+1. footer.html를 수정해 하단의 상세점보 바꾸기
 
 ### Disqus를 이용해 댓글 기능 적용하기
 1. https://blog.disqus.com/ 회원가입
